@@ -1,0 +1,10 @@
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\monica\Documents\DAW\Entorno de Desarrollo\Tercer Trimestre\segundo intento\PracticaT5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

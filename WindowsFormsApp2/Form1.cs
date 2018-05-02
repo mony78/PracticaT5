@@ -26,9 +26,9 @@ namespace WindowsFormsApp2
 
             miAlumno.Nombre = aluNombre.Text;
             miAlumno.Nota = Convert.ToInt32(aluNota.Text);
-            miAlumnoStr = aluNombre.Text + " " + aluNota.Text + (miAlumno.Aprobado ? " Aprobado" : " Suspenso") + "\n";
-            miAlumnoStr = miAlumnoStr + "Nota media" + misAlumnos.Media;
-            listaAlumnos.AppendText(miAlumnoStr);
+            miAlumnoStr = aluNombre.Text + " " + aluNota.Text + (miAlumno.Aprobado ? " Aprobado " : " Suspenso ") + "Nota media: "+ misAlumnos.Media+"\n";
+            
+            listaAlumnos.AppendText(miAlumnoStr+"\n");
             misAlumnos.Agregar(miAlumno);
         }
     }
